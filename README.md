@@ -1,8 +1,8 @@
 # Meteorite *Complete*
 
----> This is a fork by me (Mark Wiering) of the original repository of Bauxite. The only change I made to this repository is: I included the font file uni0553-webfont.ttf, whereas the original GitHub repository doesn't include this file and instead links to a website that is down for several years. For convenience, you can fork this repository instead. I haven't changed a thing except for including uni0553-webfont.ttf! Enjoy this marvellous game, made by Bauxite! :-D 
+---> This is a fork by me (**Mark Wiering**) of the original repository of Bauxite. The only change I made to this repository is: I included the font file *uni0553-webfont.ttf*, whereas the original GitHub repository doesn't include this file and instead links to a website that is down for several years. For convenience, you can fork this repository instead. I haven't changed a thing except for including *uni0553-webfont.ttf*! Enjoy this marvellous game, made by **Bauxite**! :-D 
 
-Below is the original text by Bauxite of the initial GitHub repository. I only removed the text containing the dead link. ;-) 
+Below is the original text by **Bauxite** of the initial GitHub repository. I only removed the text containing the dead link. ;-) 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W2X7WN)
 
