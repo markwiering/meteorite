@@ -1,4 +1,8 @@
-# Meteorite
+# Meteorite *Complete*
+
+---> This is a fork by me (Mark Wiering) of the original repository of Bauxite. The only change I made to this repository is: I included the font file uni0553-webfont.ttf, whereas the original GitHub repository doesn't include this file and instead links to a website that is down for several years. For convenience, you can fork this repository instead. I haven't changed a thing except for including uni0553-webfont.ttf! Enjoy this marvellous game, made by Bauxite! :-D 
+
+Below is the original text by Bauxite of the initial GitHub repository. I only removed the text containing the dead link. ;-) 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W2X7WN)
 
@@ -21,15 +25,6 @@ Also available on the asset store: https://godotengine.org/asset-library/asset/2
 ----
 
 Made in Godot 3.0. 
-
-# Running the game
-
-**Important:** before running the game, you must download a font (since it cannot be freely distributed). If you don't do this the game will not display any text.
-
-1. Download the font [here](http://www.miniml.com/fonts/uni0553/uni0553.zip).
-2. Copy the `uni0553-webfont.ttf` file from the zip file to the `fonts/` folder.
-
-That's all.
 
 # Compatibility
 
